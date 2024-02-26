@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/winnie jomo" target="blank"><img src="https://img.shields.io/twitter/follow/winnie jomo?logo=twitter&style=for-the-badge" alt="winnie jomo" /></a> </p>
 
-- 🔭 I’m currently working on [Aesth Foods](https://github.com/winniegithubrit/aesth-food)
-
-- 🌱 I’m currently learning **React Django Flask Laravel FastApi,JavaScript,Python,HTML,CSS,**
+- 🌱 I’m currently learning **Django Angular
 
 - 👯 I’m looking to collaborate on [BookAppProject](https://github.com/winniegithubrit/BookAppProject)
 
@@ -17,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/winniegithubrit/jomo-s-portfolio](https://github.com/winniegithubrit/jomo-s-portfolio)
 
-- 💬 Ask me about **react,angular,django,flask,fastapi**
+- 💬 Ask me about **react,angular,django,flask,fastapi,jinja2**
 
 - 📫 How to reach me **winniejomo17@gmail.com**
 
