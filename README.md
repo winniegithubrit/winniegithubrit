@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Food App Backend](https://github.com/winniegithubrit/food_app_backend_project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/winniegithubrit/jomo-s-portfolio](https://jomo-s-portfolio-j43uygg1y-winniegithubrits-projects.vercel.app/)
+- 👨‍💻 This is my professional portfolio:  [https://github.com/winniegithubrit/jomo-s-portfolio](https://jomo-s-portfolio-j43uygg1y-winniegithubrits-projects.vercel.app/)
 
 - 💬 Ask me about **react,angular,django,flask,fastapi,jinja2, ASP.NET CORE**
 
