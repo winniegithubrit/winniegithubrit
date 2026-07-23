@@ -6,14 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winniegithubrit" alt="winniegithubrit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/winnie jomo" target="blank"><img src="https://img.shields.io/twitter/follow/winnie jomo?logo=twitter&style=for-the-badge" alt="winnie jomo" /></a> </p>
+- 👨‍💻 This is my professional portfolio:  [https://github.com/winniegithubrit/jomo-s-portfolio](https://winnie-ayitso-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning ** Angular
 
 - 👯 I’m looking to collaborate on [BookAppProject](https://github.com/winniegithubrit/BookAppProject)
 
 - 🤝 I’m looking for help with [Food App Backend](https://github.com/winniegithubrit/food_app_backend_project)
-
-- 👨‍💻 This is my professional portfolio:  [https://github.com/winniegithubrit/jomo-s-portfolio](https://jomo-s-portfolio-j43uygg1y-winniegithubrits-projects.vercel.app/)
 
 - 💬 Ask me about **react,angular,django,flask,fastapi,jinja2, ASP.NET CORE**
 
