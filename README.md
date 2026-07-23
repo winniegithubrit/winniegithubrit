@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winniegithubrit" alt="winniegithubrit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/winnie jomo" target="blank"><img src="https://img.shields.io/twitter/follow/winnie jomo?logo=twitter&style=for-the-badge" alt="winnie jomo" /></a> </p>
-- 👨‍💻 This is my professional portfolio:  (https://winnie-ayitso-portfolio.vercel.app/)
+- 👨‍💻 THIS IS MY PROFESSIONAL PORTFOLIO WEBSITE :  (https://winnie-ayitso-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning ** Angular
 
